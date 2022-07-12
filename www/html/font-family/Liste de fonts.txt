@@ -1,0 +1,55 @@
+Monteserrat :
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+font-family: 'Montserrat', sans-serif;
+
+Nunito : 
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap" rel="stylesheet">
+font-family: 'Nunito Sans', sans-serif;
+
+Parisienne :
+<link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet">
+font-family: 'Parisienne', cursive;
+
+
+Quicksand:
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
+font-family: 'Quicksand', sans-serif;
+
+Bellota :
+<link href="https://fonts.googleapis.com/css2?family=Bellota:ital,wght@0,400;1,300&display=swap" rel="stylesheet">
+font-family: 'Bellota', cursive;
+
+Overpass :
+<link href="https://fonts.googleapis.com/css2?family=Overpass:wght@200&display=swap" rel="stylesheet">
+font-family: 'Overpass', sans-serif;
+
+Bentham :
+<link href="https://fonts.googleapis.com/css2?family=Bentham&display=swap" rel="stylesheet">
+font-family: 'Bentham', serif;
+
+
+Raleway and dancing script :
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Raleway:ital,wght@1,200&display=swap" rel="stylesheet">
+font-family: 'Dancing Script', cursive;
+font-family: 'Raleway', sans-serif;
+
+Arabic:
+<link href="https://fonts.googleapis.com/css2?family=El+Messiri&display=swap" rel="stylesheet">
+font-family: 'El Messiri', sans-serif;
+
+Antic slab :
+<link href="https://fonts.googleapis.com/css2?family=Antic+Slab&display=swap" rel="stylesheet">
+font-family: 'Antic Slab', serif;
+
+Roboto : 
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap" rel="stylesheet">
+font-family: 'Roboto Mono', monospace;
+
+Comfortaa :
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap" rel="stylesheet">
+font-family: 'Comfortaa', cursive;
+
+Basic:
+<link href="https://fonts.googleapis.com/css2?family=Basic&display=swap" rel="stylesheet">
+font-family: 'Basic', sans-serif;
