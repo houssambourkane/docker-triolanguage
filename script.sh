@@ -6,4 +6,4 @@ sleep 1
 echo "Connecting to database..."
 sleep 10
 docker exec -i mysql-container mysql -hmysql -uroot -psecret db < ./mysql/langue.sql
-echo 'Website now accessible through \nlocalhost:80...'
+echo 'Website now accessible through localhost:80...'
